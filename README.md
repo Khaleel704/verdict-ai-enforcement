@@ -9,6 +9,11 @@ Rather than replacing analysts, Verdict demonstrates a workflow where automated 
 > **Disclaimer**
 >
 > Verdict uses synthetic cases and a transparent baseline detector for demonstration purposes only. It is not affiliated with or endorsed by Anthropic or any other AI company.
+>
+> ## Live Demo
+
+[Open Verdict](https://verdict-safeguards.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://verdict-safeguards.streamlit.app)
 
 ---
 
