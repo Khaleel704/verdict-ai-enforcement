@@ -13,8 +13,7 @@ Rather than replacing analysts, Verdict demonstrates a workflow where automated 
 
 ## Live Demo
 
-[Open Verdict](https://verdict-safeguards.streamlit.app)
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://verdict-safeguards.streamlit.app)
+[![Open Verdict in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://verdict-safeguards.streamlit.app)
 
 ---
 
