@@ -15,6 +15,9 @@ Rather than replacing analysts, Verdict demonstrates a workflow where automated 
 
 [![Open Verdict in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://verdict-safeguards.streamlit.app)
 
+## Video Walkthrough
+
+[Watch the 90-second Verdict demo](https://youtu.be/3nSYJYiOKUY)
 ---
 
 ## Overview
